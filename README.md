@@ -38,7 +38,7 @@ Ich habe gelernt wie ich mit der Programmiersprache C# in Visual Studio einen Ra
 ![clap-pushups-stephen-farrelly](https://user-images.githubusercontent.com/110892641/189855023-b366c8f4-56e5-49b3-8e85-2113fee6b567.gif)
 
 
-*Verbesserungsvorschlag:
+* Verbesserungsvorschlag:
 
 Meine Agressionen unter kontrolle zu halten und weiterhin konzentriert meine Fehler zu suchen, weil die Agressionen eine grosse Ablenkung für die konzentrierte Arbeit im Programmieren ist. 
 
