@@ -40,7 +40,7 @@ Ich habe gelernt wie ich mit der Programmiersprache C# in Visual Studio einen Ra
 
 * Verbesserungsvorschlag:
 
-Meine Agressionen unter kontrolle zu halten und weiterhin konzentriert meine Fehler zu suchen, weil die Agressionen eine grosse Ablenkung für die konzentrierte Arbeit im Programmieren ist. 
+Meine Agressionen unter kontrolle zu halten und weiterhin konzentriert meine Fehler zu suchen, weil die Agressionen eine grosse Ablenkung für die konzentrierte Arbeit im Programmieren ist. :)
 
 
 
