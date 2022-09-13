@@ -25,5 +25,18 @@ Ich habe gelernt wie ich mit der Programmiersprache C# in Visual Studio einen Ra
 
 ![1_JtC1CS6-OT218_QzRlLXFw](https://user-images.githubusercontent.com/110892641/189851411-a3d4adc1-495e-4cee-9c70-c303f8552e23.gif)
 
+👍 Ich konnte kurzfristig im Internet Hilfe finden wie ich einen Random Zahl Generator programmiere und konnte so meinen Code erfolgreich in kurzer Zeit programmieren.
+
+👎Zum Teil gab es im Programm Fehler die ich erst nach längere Zeit entdecken konnte. Während der Suche nach den Fehlern wurde ich oft sogar von mir selbst enttäuscht und habe einfach angefangen vor meinem Laptop irgendwelche Tänze zu tanzen. Nach jeder Enttäuschung machte ich als Bestrafung 20 Push-Ups.
+
+`Was ich getanzt habe:`
+![fortnite-aura](https://user-images.githubusercontent.com/110892641/189854907-723fe1bf-edb0-4360-b6bd-64f6b3aaf050.gif)
+
+`Push-Ups`
+![clap-pushups-stephen-farrelly](https://user-images.githubusercontent.com/110892641/189855023-b366c8f4-56e5-49b3-8e85-2113fee6b567.gif)
+
+
+
+
 
 
