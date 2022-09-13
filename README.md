@@ -1,8 +1,20 @@
 # Lern-Bericht
 
 `Einleitung`
-Im Lernatelier
+
+Im Lernatelier habe ich auf Visual Studio mit der Programmiersprache C# programmiert und einige neue Sachen gelernt. Mein neues Wissen möchte ich euch mit diesem Lern-Bericht vorstellen.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Was habe ich gelernt?*
+
+Ich habe gelernt wie ich mit der Programmiersprache C# in Visual Studio einen Random Zahl Generator von bis zu einer bestimmten maximum Zahl programmiere und es im Programm ausgebe.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+* Wir werden die Methode `Next()` verwenden, um eine zufällige Ganzzahl in einem Bereich in C# zu generieren. Diese Methode generiert eine zufällige Ganzzahl in einem bestimmten Bereich. Es hat drei Überladungen. Um diese Methode verwenden zu können, müssen wir ein Objekt der Klasse `Random` erstellen. Die korrekte Syntax für diese Methode lautet wie folgt.
+
+![image](https://user-images.githubusercontent.com/110892641/189845140-cc642fc1-300c-4cbc-9a55-5509becac9fd.png)
+
 
 
